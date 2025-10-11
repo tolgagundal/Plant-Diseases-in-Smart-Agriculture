@@ -1,0 +1,3 @@
+The goal of this project was to use deep learning to automatically find diseases in tomato plants.  I aimed automaticaly diagnose diseases in tomato plants using deep learning technique. In the first part of the project, I set up technical infrastructure of work environment and added important software libraries such as TensorFlow, Keras, Matplotlib.
+
+I used dataset containing various disease states of tomato leaves from drive and transferred it to local storage. And then I was making it ready for use. These steps enabled me to obtain the image data necessary for model training. Also, formed the technical basis of the project were critical to the beginning of my work.
